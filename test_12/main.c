@@ -1,4 +1,4 @@
-#include <windows.h>
+#include <windows.h> TEST TEST
 #include <stdio.h>
 
 void setConsoleSize(int width, int height) {
