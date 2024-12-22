@@ -23,7 +23,7 @@ int main() {
     int width;  // Breite der Konsole
     int height; // Höhe der Konsole
     
-    printf("\nWie groß soll die Konsole sein? (Breite, Hoehe)");
+    printf("\nWie groß soll das Konsole sein? (Breite, Hoehe)");
     scanf("%d, %d", &width, &height);
 
     // Konsolengröße setzen
